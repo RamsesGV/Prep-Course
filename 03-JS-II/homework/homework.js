@@ -174,7 +174,7 @@ function doWhile(numero) {
   //Usar el bucle do ... while.
 let contador = 1;  
   do { 
-    numero = numero +5  
+numero = numero +5  
 contador ++ 
 }
 while(contador <= 8)
